@@ -11,6 +11,7 @@ Here are some other open source tools that are compatible with Structurizr.
 
 ## Structurizr DSL text editor and IDE plugins
 
+- [C4 Architecture As A Code](https://marketplace.visualstudio.com/items?itemName=vimpelcom.c4-varp) (VS Code, syntax highlighting, `!include` support, embed diagram renderer with Graphviz, export to DrawIO)
 - [VS Code extension](https://marketplace.visualstudio.com/items?itemName=systemticks.c4-dsl-extension) (syntax highlighting and diagram previews)
 - [C4 DSL Language Server](https://gitlab.com/systemticks/c4-dsl-language-server) (for integrating the Structurizr DSL into Language Server Protocol compatible tools)
 - [Cornifer](https://rvr06.github.io/cornifer) (VS Code extension; syntax highlighting and diagram previews)
